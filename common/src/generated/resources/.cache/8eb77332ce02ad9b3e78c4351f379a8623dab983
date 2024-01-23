@@ -1,0 +1,10 @@
+// 1.20.1	2024-01-23T08:00:36.4588629	Example Mod/Registrate Provider for logic_n_control [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+b8b58784ea38f9d458bb529c76ea1e7c45ba78e4 assets\logic_n_control\models\item\programmable_gate.json
+ef17cef330fc60f93c9140f18de26455b53df18a assets\logic_n_control\blockstates\programmable_gate.json
+0b47e392262c85d1a3891f11d5357e1a3c3dc969 assets\logic_n_control\lang\en_ud.json
+3c4b2aa6be5d931b55bd42783eee0db5eeaa9a8e assets\logic_n_control\models\block\programmable_gate_powering.json
+bea4fff014a06bbe91b20f1dbc59ad3327e2a476 assets\logic_n_control\models\block\programmable_gate_powered.json
+46e1609e7d385476bc8ffbc905ffa333dd7639c9 data\create\tags\blocks\safe_nbt.json
+ffe1e1726d7233b8e7496323368dba8fb63c2525 assets\logic_n_control\lang\en_us.json
+6311e74eb0bed683f9dd770deddfd27715111a85 data\logic_n_control\loot_tables\blocks\programmable_gate.json
+84f6c46a420853a13d3d375281967d60d3cf7fb6 assets\logic_n_control\models\block\programmable_gate_powered_powering.json

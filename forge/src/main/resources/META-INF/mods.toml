@@ -6,7 +6,7 @@ license = "Insert License Here"
 [[mods]]
 modId = "${id}"
 version = "${version}"
-displayName = "Example Mod"
+displayName = "Create: Logic 'n' Control"
 authors = "Me!"
 description = '''
 This is an example description! Tell everyone what your mod is about!

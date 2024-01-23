@@ -46,6 +46,7 @@ subprojects {
                 forge {
                     convertAccessWideners = true
                     extraAccessWideners.add loom.accessWidenerPath.get().asFile.name
+
                 }
             }
         }

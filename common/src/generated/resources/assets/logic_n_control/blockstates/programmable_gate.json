@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=east,inverted=false,powered=false,powering=false": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 270
+    },
+    "facing=east,inverted=false,powered=false,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 270
+    },
+    "facing=east,inverted=false,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 270
+    },
+    "facing=east,inverted=false,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 270
+    },
+    "facing=east,inverted=true,powered=false,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 270
+    },
+    "facing=east,inverted=true,powered=false,powering=true": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 270
+    },
+    "facing=east,inverted=true,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 270
+    },
+    "facing=east,inverted=true,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 270
+    },
+    "facing=north,inverted=false,powered=false,powering=false": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 180
+    },
+    "facing=north,inverted=false,powered=false,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 180
+    },
+    "facing=north,inverted=false,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 180
+    },
+    "facing=north,inverted=false,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 180
+    },
+    "facing=north,inverted=true,powered=false,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 180
+    },
+    "facing=north,inverted=true,powered=false,powering=true": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 180
+    },
+    "facing=north,inverted=true,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 180
+    },
+    "facing=north,inverted=true,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 180
+    },
+    "facing=south,inverted=false,powered=false,powering=false": {
+      "model": "create:block/diodes/programmable_gate"
+    },
+    "facing=south,inverted=false,powered=false,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powering"
+    },
+    "facing=south,inverted=false,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered"
+    },
+    "facing=south,inverted=false,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering"
+    },
+    "facing=south,inverted=true,powered=false,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powering"
+    },
+    "facing=south,inverted=true,powered=false,powering=true": {
+      "model": "create:block/diodes/programmable_gate"
+    },
+    "facing=south,inverted=true,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering"
+    },
+    "facing=south,inverted=true,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered"
+    },
+    "facing=west,inverted=false,powered=false,powering=false": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 90
+    },
+    "facing=west,inverted=false,powered=false,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 90
+    },
+    "facing=west,inverted=false,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 90
+    },
+    "facing=west,inverted=false,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 90
+    },
+    "facing=west,inverted=true,powered=false,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powering",
+      "y": 90
+    },
+    "facing=west,inverted=true,powered=false,powering=true": {
+      "model": "create:block/diodes/programmable_gate",
+      "y": 90
+    },
+    "facing=west,inverted=true,powered=true,powering=false": {
+      "model": "logic_n_control:block/programmable_gate_powered_powering",
+      "y": 90
+    },
+    "facing=west,inverted=true,powered=true,powering=true": {
+      "model": "logic_n_control:block/programmable_gate_powered",
+      "y": 90
+    }
+  }
+}

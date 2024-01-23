@@ -10,15 +10,22 @@
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
   "license": "Insert License Here",
-  "icon": "assets/examplemod/icon.png",
+  "icon": "assets/logic_n_control/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [ "net.examplegroup.examplemod.fabric.ExampleModFabric" ],
-    "modmenu": [ "net.examplegroup.examplemod.fabric.ModMenuIntegration" ]
+    "main": [
+      "anthxny.logic_n_control.fabric.LogicNControlFabric"
+    ],
+    "modmenu": [
+      "anthxny.logic_n_control.fabric.ModMenuIntegration"
+    ],
+    "fabric-datagen": [
+      "anthxny.logic_n_control.fabric.datagen.LCDataGen"
+    ]
   },
   "mixins": [
-    "examplemod.mixins.json",
-    "examplemod-common.mixins.json"
+    "logic_n_control.mixins.json",
+    "logic_n_control-common.mixins.json"
   ],
   "depends": {
     "minecraft": "${minecraft_version}",

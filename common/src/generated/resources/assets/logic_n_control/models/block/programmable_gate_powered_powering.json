@@ -1,0 +1,7 @@
+{
+  "parent": "create:block/diodes/programmable_gate",
+  "textures": {
+    "top": "create:block/diodes/programmable_gate/powered_powering",
+    "torch": "minecraft:block/redstone_torch"
+  }
+}

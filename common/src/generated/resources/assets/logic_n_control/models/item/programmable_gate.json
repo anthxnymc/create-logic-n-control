@@ -1,0 +1,6 @@
+{
+  "parent": "logic_n_control:block/diodes/programmable_gate",
+  "textures": {
+    "top": "logic_n_control:block/diodes/programmable_gate/item"
+  }
+}

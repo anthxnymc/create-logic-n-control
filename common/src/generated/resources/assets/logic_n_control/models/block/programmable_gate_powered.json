@@ -1,0 +1,6 @@
+{
+  "parent": "create:block/diodes/programmable_gate",
+  "textures": {
+    "top": "create:block/diodes/programmable_gate/powered"
+  }
+}
